@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/cover.jpg" height="450" width="auto"></p>
+<p align="center"><img src="./ebook/en/assets/cover.jpg" height="450" width="auto"></p>
 
 <div align="center">
     <p>
