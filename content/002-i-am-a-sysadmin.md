@@ -1,8 +1,8 @@
-# I am a SysAdmin
+## I am a SysAdmin
 
 Since you want to become a DevOps engineer, you should have a good understanding of system administration. This section is about the general knowledge a DevOps engineer should have from system administration perspective. It covers topics like System Administration basics, the Linux command line, and the basics of networking.
 
-## What is System Administration?
+### What is System Administration?
 
 System administration is the process of managing computer systems and networks. It includes maintaining the hardware, software, and configurations of computer systems. Most companies distribute the work of system administration among a multiple teams of administrators. These teams usually include an SRE(site realiability engineer), a network administrator, a database administrator, a storage administrator, and a security administrator.
 
@@ -15,7 +15,7 @@ System administrators are responsible for the security, availability, and perfor
 - Managing the network.
 - MANAGING EVERYTHING!
 
-## What knowledge do you need from the System Administration world?
+### What knowledge do you need from the System Administration world?
 
 You should have a good understanding of the following topics:
 - Linux command line.
@@ -28,26 +28,26 @@ You should have a good understanding of the following topics:
 
 Let's take a look at each of these topics.
 
-## Linux Command Line
+### Linux Command Line
 
-### What is the Linux command line?
+#### What is the Linux command line?
 
 The Linux command line is a text interface for your computer. It's a program that takes in commands, which it passes on to the computer's operating system to run. The command line is also known as the terminal, console, or shell.
 
 The Linux command line is a powerful tool that allows you to do things that are difficult or impossible to do with a graphical user interface. It's also a great way to learn about the inner workings of your computer. It is a must-have skill for any DevOps and System engineer.
 
-### How to learn the Linux command line?
+#### How to learn the Linux command line?
 
 There are many resources available online to learn the Linux command line. Here are some of the best resources:
 - [Linux Command Line Basics](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
-## Networking
+### Networking
 
-### What is Networking?
+#### What is Networking?
 
 Networking is the practice of connecting two or more computing devices together for the purpose of sharing data. In a data network, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as wires or optic cables, or wireless media such as WiFi.
 
-### How to learn Networking?
+#### How to learn Networking?
 
 You should have a good understanding of the following topics:
 - OSI Model.
@@ -70,13 +70,13 @@ There are many resources available online to learn Networking. Here are some of 
 - [Load balancing](https://www.youtube.com/watch?v=sCR3SAVdyCc)
 - [Firewalls](https://www.youtube.com/watch?v=kDEX1HXybrU)
 
-## Cloud
+### Cloud
 
-### What is Cloud?
+#### What is Cloud?
 
 Cloud computing is the on-demand delivery of IT resources and applications via the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like DigitalOcean, Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform.
 
-### How to learn Cloud?
+#### How to learn Cloud?
 
 You should have a good understanding of the following topics (actually there are a lot more but let's start with these absolutely mandatory ones before we jump into DevOps):
 - Cloud computing.
@@ -86,13 +86,13 @@ There are many resources available online to learn Cloud. Here are some of the b
 - [Cloud computing](https://www.youtube.com/watch?v=M988_fsOSWo)
 - [Virtualization](https://www.youtube.com/watch?v=FZR0rG3HKIk)
 
-## Databases
+### Databases
 
-### What is a Database?
+#### What is a Database?
 
 A database is an organized collection of data. It is the place where you store all your data. Databases are used to store and retrieve related information. They are used to manage large amounts of data efficiently.
 
-### How to learn Databases?
+#### How to learn Databases?
 
 You should have a good understanding of the following topics:
 - Relational databases.
@@ -106,13 +106,13 @@ There are many resources available online to learn Databases. Here are some of t
 - [SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [NoSQL](https://www.youtube.com/watch?v=xh4gy1lbL2k)
 
-## Security
+### Security
 
-### What is Security?
+#### What is Security?
 
 Security is the process of protecting information by preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording, or destruction. It is a must-have skill for any DevOps and System engineer.
 
-### How to learn Security?
+#### How to learn Security?
 
 You should have a good understanding of the following topics:
 - Encryption.
@@ -130,13 +130,13 @@ There are many resources available online to learn Security. Here are some of th
 - [Vulnerabilities](https://www.youtube.com/watch?v=qfpnJyTl1To)
 - [Security best practices](https://www.youtube.com/watch?v=d9bUZGvcTK8)
 
-## Monitoring
+### Monitoring
 
-### What is Monitoring?
+#### What is Monitoring?
 
 Monitoring is the process of observing the performance of a system over time. It is a must-have skill for any DevOps and System engineer.
 
-### How to learn Monitoring?
+#### How to learn Monitoring?
 
 You should have a good understanding of the following topics:
 
