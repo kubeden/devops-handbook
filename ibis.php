@@ -4,7 +4,7 @@ return [
     /**
      * The book title.
      */
-    'title' => 'The DevOps Cookbook',
+    'title' => 'The DevOps Handbook',
 
 
     /**
