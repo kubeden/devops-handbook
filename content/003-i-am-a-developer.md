@@ -1,7 +1,5 @@
 # I am a Developer
 
-## PRE
-
 Since you want to become a DevOps engineer, you should have a good understanding of software development. This section is about the general knowledge a DevOps engineer should have from software development perspective.
 
 ## Development Basics

@@ -1,6 +1,4 @@
-# Book Entrence
-
-## Introduction
+## Book Introduction
 
 The DevOps cookbook is a free open-source book that aims to provide general knowledge about DevOps, and a collection of recipes for common DevOps practices. The book is written in Markdown and is published using [Ibis](https://github.com/themsaid/ibis).
 
