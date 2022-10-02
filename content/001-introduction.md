@@ -1,12 +1,12 @@
-## Book Introduction
+### Book Introduction
 
 The DevOps cookbook is a free open-source book that aims to provide general knowledge about DevOps, and a collection of recipes for common DevOps practices. The book is written in Markdown and is published using [Ibis](https://github.com/themsaid/ibis).
 
-## Book Sections
+#### Book Sections
 
 Chapters are organized in a way that you can read them in order, or you can jump to the chapter you need. The book is divided into 4 sections.
 
-### Section 1: Theory
+#### Section 1: Theory
 
 Section 1.1: Must-Have Theory
 - **I am a SysAdmin!**: This section is about the general knowledge a DevOps engineer should have from system administration perspective. It covers topics like System Administration basics, the Linux command line, and the basics of networking.
@@ -26,7 +26,7 @@ Section 1.3: DevOps Advanced
 - **DevOps 206**: This section covers topics like serverless, and cloud computing.
 - **DevOps 207**: This section covers topics like DevOps in the enterprise.
 
-Section 2: Practice
+#### Section 2: Practice
 
 Section 2.1: Linux
 - **Linux 2: Install LEMP Stack**
@@ -56,6 +56,6 @@ Section 2.5: Infrastructure as Code
 - **IaC 3: Deploy a Laravel Application on a DigitalOcean Droplet with a managed Database with Terraform and Ansible**
 
 
-## How to Contribute
+#### How to Contribute
 
 The book is open-source and you can contribute to it by sending a pull request to the [GitHub repository](https://github.com/denctl/devops-cookbook)
