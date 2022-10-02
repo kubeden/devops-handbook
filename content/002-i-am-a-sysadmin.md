@@ -1,3 +1,5 @@
+# Section 1: Theory
+
 ## I am a SysAdmin
 
 Since you want to become a DevOps engineer, you should have a good understanding of system administration. This section is about the general knowledge a DevOps engineer should have from system administration perspective. It covers topics like System Administration basics, the Linux command line, and the basics of networking.

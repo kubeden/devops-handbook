@@ -1,8 +1,6 @@
-# I am a Developer
+## I am a Developer
 
 Since you want to become a DevOps engineer, you should have a good understanding of software development. This section is about the general knowledge a DevOps engineer should have from software development perspective.
-
-## Development Basics
 
 ### What is software development?
 
@@ -15,25 +13,28 @@ You should have a good understanding of the following topics:
 - Topic 2
 - Topic 3
 
-## Topic 1
-
-### What is Topic 1?
+### Topic 1
 
 Need Information
 
-### How do you do Topic 1?
+#### Sub-Topic 1
 
 Need Information
 
-## Topic 2
-
-### What is Topic 2?
+### Topic 2
 
 Need Information
 
-### How do you do Topic 2?
+#### Sub-Topic 2
 
 Need Information
 
-... etc
+### Topic 3
 
+Need Information
+
+#### Sub-Topic 3
+
+Need Information
+
+etc.
