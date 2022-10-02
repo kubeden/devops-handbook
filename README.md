@@ -57,7 +57,7 @@ Here is the list of practical chapters:
 
 ## 🌟 Sponsors
 
-This book is made possible thanks to many fantastic Hacktoberfest contributors and sponsors, as well as companies!
+This book is made possible thanks to many fantastic Hacktoberfest contributors!
 
 ### 💙 DigitalOcean
 
