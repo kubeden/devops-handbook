@@ -30,32 +30,30 @@ Section 1.3: DevOps Advanced
 
 ### Section 2: Practice
 
-Section 2.1: Linux
-- **Linux 2: Install LEMP Stack**
-- **Linux 2: Install Laravel**
-- **Linux 3: Automate Laravel Deployment With Bash**
-- **Linux 4: Load Balance Laravel With HAProxy**
-- **Linux 5: Migrate a Laravel App from one server to another**
-- **Linux 6: Write a Bash Script to Monitor System Resources (MEM, CPU, STORAGE) and send a Discord Notification**
+Section 2.1: Cloud
+- **Cloud 1: Create a DigitalOcean Droplet and configure LEMP stack on it**
+- **Cloud 2: Deploy Laravel on a DigitalOcean droplet**
+- **Cloud 3: Configure a DigitalOcean Managed Database for your Laravel App**
+- **Cloud 4: Configure a DigitalOcean space for your Laravel static assets**
+- **Cloud 5: Deploy a Laravel App to a DigitalOcean Kubernetes Cluster**
 
-Section 2.2: Databases
+Section 2.2: Linux
+- **Linux 1: Automate Laravel Deployment With Bash**
+- **Linux 2: Load Balance Laravel With HAProxy**
+- **Linux 3: Migrate a Laravel App from one server to another**
+- **Linux 4: Write a Bash Script to Monitor System Resources (MEM, CPU, STORAGE) and send a Discord Notification**
+
+Section 2.3: Databases
 - **Database 1: Replicate a MySQL Database to a Slave Server**
 
-Section 2.3: Containers
-- **Container 1: Deploy a Laravel App to a Docker Container**
-- **Container 1: Deploy a Laravel App with Docker Compose**
-- **Container 2: Deploy a Laravel App to a Kubernetes Cluster**
-
-Section 2.4: Cloud
-- **Cloud 1: Deploy a Laravel App to a DigitalOcean Droplet**
-- **Cloud 2: Configure a DigitalOcean Managed Database for your Laravel App**
-- **Cloud 3: Configure a DigitalOcean space for your Laravel static assets**
-- **Cloud 4: Deploy a Laravel App to a DigitalOcean Kubernetes Cluster**
+Section 2.4: Containers
+- **Containers 1: Deploy a Laravel App to a Docker Container**
+- **Containers 2: Deploy a Laravel App with Docker Compose**
+- **Containers 3: Deploy a Laravel App to a Kubernetes Cluster**
 
 Section 2.5: Infrastructure as Code
-- **IaC 1: Deploy a DigitalOcean Droplet using Terraform**
-- **IaC 2: Deploy a DigitalOcean Droplet, Kubernetes Cluster, and a managed Database with Terraform**
-- **IaC 3: Deploy a Laravel Application on a DigitalOcean Droplet with a managed Database with Terraform and Ansible**
+- **IaC 1: Deploy a DigitalOcean Droplet, Kubernetes Cluster, and a managed Database with Terraform**
+- **IaC 2: Deploy a Laravel Application on a DigitalOcean Droplet with a managed Database with Terraform and Ansible**
 
 
 ### How to Contribute
