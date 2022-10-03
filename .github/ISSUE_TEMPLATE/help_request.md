@@ -1,7 +1,7 @@
 ---
-name: 🖐 Help request
-about: I need help with an issue 😕
-title: "Help: "
+name: 🖐 Chapter Content
+about: I need content for a chapter 😕
+title: "Chapter Content: "
 labels: help wanted
 ---
 
