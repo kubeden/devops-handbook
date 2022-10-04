@@ -13,28 +13,22 @@ You should have a good understanding of the following topics:
 - Topic 2
 - Topic 3
 
-### Topic 1
+### Best Programing Languages
+
+- Python
+- Javascript
+  - Node / Typescript
 
 Need Information
 
-#### Sub-Topic 1
+### Programming Basics
 
 Need Information
 
-### Topic 2
+#### Progamming Advanced
 
 Need Information
 
-#### Sub-Topic 2
+### Programming in DevOps
 
 Need Information
-
-### Topic 3
-
-Need Information
-
-#### Sub-Topic 3
-
-Need Information
-
-etc.

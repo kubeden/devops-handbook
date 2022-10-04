@@ -43,6 +43,5 @@ Make sure that when you create your issue, it follows the format for the type of
  (it has individual templates for each issue type).
 
 Issue template types include the following:
- - Bug Reporting
- - Feature Requests
- - Help Requests
+ - Chapter Content
+ - Tutorial Request
