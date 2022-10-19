@@ -34,8 +34,47 @@ Inorder to know which image to use we need to
 6. Copy the tag of this image
 7. Paste the tag in the Dockerfile as follow: FROM php:7.2.34-zts-alpine3.12
 
-#### Step 3: Copying files and Directories
+#### Step 3: Changing the working directory
 
-Some Text
+For php projects we need to move all our files to /var/www/html folder. So let us add below FROM instruction:
+WORKDIR /var/www/html
+
+#### Step 3: Execluding files and directories
+
+Before copying laravel app directories and files we need to execlude couple of folders that are not needed to be transfered to the image.
+We will add folder in the directory and name it: .dockerignore
+Inside it we will add the following:
+.env
+vendor/
+
+So when building an image, docker will not copy a large directory to docker engine.
+This will reduce build context massively and unneeded.
+
+#### Step 4: Copying files and Directories
+
+Now that we have a base image, and we are in the correct directory, next step is to copy the application files into the image. 
+To do so, we need to add this instruction: COPY . .
+
+#### Step 5: Running commands
+
+Next step we are going to install project dependencies using composer. We will use the RUN command.
+Add this line: RUN composer install
+
+#### Step 6: Setting environment variables
+
+We need to set environment variables of the project, it will include your database connection and all other variables you need. 
+And add the following command to set your variables:
+ENV DB_HOST=localhost
+...
+And change in your .env file DB_HOST=localhost to DB_HOST=${DB_HOST}
+
+#### Step 7: Exposing ports
+
+We need to set environment variables of the project, it will include your database connection and all other variables you need. 
+And add the following command to set your variables:
+ENV DB_HOST=localhost
+...
+And change in your .env file DB_HOST=localhost to DB_HOST=${DB_HOST}
+
 
 #### Conclusion
