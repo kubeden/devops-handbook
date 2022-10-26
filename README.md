@@ -20,38 +20,38 @@ The guide is suitable for anyone working as a developer, system administrator, o
 
 To download a copy of the ebook use one of the following links:
 
-* [Dark mode](#)
+* [Dark mode](ebook/en/export/the-devops-handbook-dark.pdf)
 
-* [Light mode](#)
+* [Light mode](ebook/en/export/the-devops-handbook-dark.pdf)
 
 ## 📘 Chapters
 
 The first section is thoretical and the second section is practical.
 
 Here is the list of theoretical chapters:
-* [Chapter 1: Introduction](#)
-* [Chapter 2: I am a SysAdmin](#)
-* [Chapter 3: I am a Developer](#)
-* [Chapter 4: I am almost a DevOps Engineer](#)
-* [Chapter 5: DevOps 101](#)
-* [Chapter 6: DevOps 102](#)
-* [Chapter 7: DevOps 201](#)
-* [Chapter 8: DevOps 202](#)
-* [Chapter 9: DevOps 203](#)
-* [Chapter 10: DevOps 204](#)
-* [Chapter 11: DevOps 205](#)
-* [Chapter 12: DevOps 206](#)
-* [Chapter 13: DevOps 207](#)
+* [Chapter 1: Introduction](ebook/en/content/001-introduction.md)
+* [Chapter 2: I am a SysAdmin](ebook/en/content/002-i-am-a-sysadmin.md)
+* [Chapter 3: I am a Developer](ebook/en/content/003-i-am-a-developer.md)
+* [Chapter 4: I am almost a DevOps Engineer](ebook/en/content/004-i-am-almost-a-devops.md)
+* [Chapter 5: DevOps 101](ebook/en/content/005-devops-101.md)
+* [Chapter 6: DevOps 102](ebook/en/content/006-devops-102.md)
+* [Chapter 7: DevOps 201](ebook/en/content/007-devops-201.md)
+* [Chapter 8: DevOps 202](ebook/en/content/008-devops-202.md)
+* [Chapter 9: DevOps 203](ebook/en/content/009-devops-203.md)
+* [Chapter 10: DevOps 204](ebook/en/content/010-devops-204.md)
+* [Chapter 11: DevOps 205](ebook/en/content/011-devops-205.md)
+* [Chapter 12: DevOps 206](ebook/en/content/012-devops-206.md)
+* [Chapter 13: DevOps 207](ebook/en/content/013-devops-207.md)
 
 Here is the list of practical chapters:
-* [Chapter 14: Deploy a DigitalOcean Droplet](#)
-* [Chapter 15: Laravel on a DigitalOcean Droplet](#)
-* [Chapter 18: Laravel on DigitalOcean Kubernetes(DOKS)](#)
-* [Chapter 17: Laravel with DigitalOcean Spaces](#)
-* [Chapter 16: Laravel with DigitalOcean Managed Databases](#)
-* [Chapter 19: Laravel Automatic Deployment with BASH](#)
-* [Chapter 20: Load Balancing with HAProxy](#)
-* [Chapter 21: Laravel Migration from one server to another](#)
+* [Chapter 14: Deploy a DigitalOcean Droplet](ebook/en/content/015-deploy-digitalocean-droplet.md)
+* [Chapter 15: Laravel on a DigitalOcean Droplet](ebook/en/content/016-install-laravel.md)
+* [Chapter 18: Laravel on DigitalOcean Kubernetes(DOKS)](ebook/en/content/018-digitalocean-kubernetes-laravel.md)
+* [Chapter 17: Laravel with DigitalOcean Spaces](ebook/en/content/017-digitalocean-spaces.md)
+* [Chapter 16: Laravel with DigitalOcean Managed Databases](ebook/en/content/017-digitalocean-managed-database.md)
+* [Chapter 19: Laravel Automatic Deployment with BASH](ebook/en/content/019-laravel-automation-with-bash.md)
+* [Chapter 20: Load Balancing with HAProxy](ebook/en/content/020-loadbalance-with-haproxy.md)
+* [Chapter 21: Laravel Migration from one server to another](ebook/en/content/021-laravel-migration.md)
 * [Chapter 22: Laravel with DigitalOcean Load Balancer](#)
 ... to be continued
 
